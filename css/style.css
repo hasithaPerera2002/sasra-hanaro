@@ -632,7 +632,6 @@ figure {
   width: 100%;
   padding: 30px;
   float: left;
-  border: 1px solid rgba(0, 0, 0, 0.05);
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -640,7 +639,7 @@ figure {
 .fh5co-blog .blog-text span {
   display: inline-block;
   margin-bottom: 20px;
-  font-size: 14px !important;
+  font-size: 12px !important;
   color: rgba(0, 0, 0, 0.3);
 }
 .fh5co-blog .blog-text .stuff {
@@ -665,7 +664,7 @@ figure {
   padding-left: 10px;
 }
 .fh5co-blog .blog-text .stuff li i {
-  font-size: 14px;
+  font-size: 12px;
   padding-right: 5px;
 }
 .fh5co-blog .blog-text h3 {
@@ -1471,5 +1470,66 @@ input[type="text"] {
   color: rgba(0, 0, 0, 0.3);
   font-weight: 400;
 }
+.slider-text-inner {
+  position: relative;
+  z-index: 1; /* Bring content to the front */
+  padding: 20px;
+  color: #211b1b8e; /* Ensure text is readable */
+}
 
+.dot-space {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+.gem-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.gem-grid > div {
+  flex: 1 1 calc(33.333% - 20px); /* 3 items per row */
+  max-width: calc(33.333% - 20px); /* Ensures items stay within 3 per row */
+  box-sizing: border-box;
+}
+
+.fh5co-blog {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: #fff;
+  min-height: 500px;
+}
+
+.fh5co-blog .blog-text td {
+  font-size: 13px !important;
+}
+
+@media (max-width: 1024px) {
+  .gem-grid > div {
+    flex: 1 1 calc(50% - 20px); /* 2 items per row on medium screens */
+    max-width: calc(50% - 20px);
+  }
+}
+
+@media (max-width: 768px) {
+  .gem-grid > div {
+    flex: 1 1 100%; /* 1 item per row on small screens */
+    max-width: 100%;
+  }
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+td {
+  vertical-align: baseline; /* Align content of td to the baseline */
+}
+td:first-child {
+  width: 150px; /* Adjust this value as per your requirement */
+  text-align: left; /* Align text to the left if needed */
+}
 /*# sourceMappingURL=style.css.map */
