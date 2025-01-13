@@ -1475,6 +1475,7 @@ input[type="text"] {
   z-index: 1; /* Bring content to the front */
   padding: 20px;
   color: #211b1b8e; /* Ensure text is readable */
+  background: #ffffff3d;
 }
 
 .dot-space {
