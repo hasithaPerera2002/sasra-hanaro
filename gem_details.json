@@ -6,7 +6,6 @@
       "hardness": 9,
       "specific_gravity_low": 3.98,
       "specific_gravity_high": 4.05,
-      "countries": ["Kenya", "Thailand", "Sri Lanka"],
       "chemical_formula": "Al2O3",
       "image": "images/gems/ruby.png"
     },
@@ -16,7 +15,6 @@
       "hardness": 8.5,
       "specific_gravity_low": 3.7,
       "specific_gravity_high": 3.78,
-      "countries": ["Brazil", "Sri Lanka", "Russia"],
       "chemical_formula": "BeAl2O4",
       "image": "images/gems/alexandrite.jpg"
     },
@@ -26,7 +24,6 @@
       "hardness": 8.5,
       "specific_gravity_low": 3.7,
       "specific_gravity_high": 3.78,
-      "countries": ["Brazil", "Sri Lanka"],
       "chemical_formula": "BeAl2O4",
       "image": "images/gems/chrysoberyl_catseye.png"
     },
@@ -36,7 +33,6 @@
       "hardness": 8.5,
       "specific_gravity_low": 3.7,
       "specific_gravity_high": 3.78,
-      "countries": ["Brazil", "Sri Lanka"],
       "chemical_formula": "BeAl2O4",
       "image": "images/gems/chrysoberyl.jpg"
     },
@@ -46,7 +42,6 @@
       "hardness": 9,
       "specific_gravity_low": 3.98,
       "specific_gravity_high": 4.05,
-      "countries": ["Burma", "Madagaskar", "Sri Lanka"],
       "chemical_formula": "Al2O3",
       "image": "images/gems/blue_sapphier.jpg"
     },
@@ -56,7 +51,6 @@
       "hardness": 9,
       "specific_gravity_low": 3.98,
       "specific_gravity_high": 4.05,
-      "countries": ["Thailand", "Madagaskar", "Sri Lanka"],
       "chemical_formula": "Al2O3",
       "image": "images/gems/white_sapphire.webp"
     },
@@ -66,7 +60,6 @@
       "hardness": 9,
       "specific_gravity_low": 3.98,
       "specific_gravity_high": 4.05,
-      "countries": ["Thailand", "Australia", "Sri Lanka"],
       "chemical_formula": "Al2O3",
       "image": "images/gems/yellow_sapphire.webp"
     },
@@ -76,7 +69,6 @@
       "hardness": 9,
       "specific_gravity_low": 3.98,
       "specific_gravity_high": 4.05,
-      "countries": ["Sri Lanka", "Australia", "Thailand"],
       "chemical_formula": "Al2O3",
       "image": "images/gems/padparadscha.jpg"
     },
@@ -86,7 +78,6 @@
       "hardness": 7.5,
       "specific_gravity_low": 3.15,
       "specific_gravity_high": 4.3,
-      "countries": ["Nambia", "Sri Lanka", "Madagascar"],
       "chemical_formula": "Mn3Al2(SiO4)3",
       "image": "images/gems/spessartine.jpg"
     },
@@ -96,7 +87,6 @@
       "hardness": 7.5,
       "specific_gravity_low": 3.1,
       "specific_gravity_high": 4.3,
-      "countries": ["India", "Sri Lanka", "Madagascar"],
       "chemical_formula": "Fe3Al2(SiO4)3",
       "image": "images/gems/almandine.jpg"
     },
@@ -106,7 +96,6 @@
       "hardness": 7.5,
       "specific_gravity_low": 3.1,
       "specific_gravity_high": 4.3,
-      "countries": ["South Africa", "Sri Lanka", "Madagascar"],
       "chemical_formula": "Mg3Al2(SiO4)3",
       "image": "images/gems/pyrope.jpg"
     },
@@ -116,7 +105,6 @@
       "hardness": 7.5,
       "specific_gravity_low": 3.54,
       "specific_gravity_high": 4.62,
-      "countries": ["Sri Lanka", "Vietnam", "Tanzania"],
       "chemical_formula": "MgAl2O4",
       "image": "images/gems/spinel.jpg"
     },
@@ -126,7 +114,6 @@
       "hardness": 7.5,
       "specific_gravity_low": 3.34,
       "specific_gravity_high": 3.62,
-      "countries": ["Tanzania", "Sri Lanka", "Myanmar"],
       "chemical_formula": "MgAl2O4",
       "image": "images/gems/cobalt_spinel.jpg"
     },
@@ -136,7 +123,6 @@
       "hardness": 7,
       "specific_gravity_low": 3.06,
       "specific_gravity_high": 3.08,
-      "countries": ["Sri Lanka", "Madagascar"],
       "chemical_formula": "NaFe3Al6(Si6O18)(BO3)3(OH)3OH",
       "image": "images/gems/schorl.jpg"
     },
@@ -146,7 +132,6 @@
       "hardness": 8,
       "specific_gravity_low": 3.49,
       "specific_gravity_high": 3.57,
-      "countries": ["Sri Lanka", "Madagascar"],
       "chemical_formula": "Be3Al2(SiO3)6",
       "image": "images/gems/topaz.jpg"
     },
@@ -156,7 +141,6 @@
       "hardness": 7.5,
       "specific_gravity_low": 4.6,
       "specific_gravity_high": 4.7,
-      "countries": ["Sri Lanka", "Thailand", "Vietnam"],
       "chemical_formula": "ZrSiO4",
       "image": "images/gems/zircon.jpg"
     },
@@ -166,7 +150,6 @@
       "hardness": 7,
       "specific_gravity_low": 2.59,
       "specific_gravity_high": 2.63,
-      "countries": ["Most Parts of the World"],
       "chemical_formula": "SiO2",
       "image": "images/gems/quartz.png"
     },
@@ -176,7 +159,6 @@
       "hardness": 7,
       "specific_gravity_low": 2.59,
       "specific_gravity_high": 2.63,
-      "countries": ["Brazil", "Madagascar", "Sri Lanka"],
       "chemical_formula": "SiO2",
       "image": "images/gems/amethyst.png"
     },
@@ -186,7 +168,6 @@
       "hardness": 7,
       "specific_gravity_low": 2.59,
       "specific_gravity_high": 2.63,
-      "countries": ["Brazil", "Madagascar", "Sri Lanka"],
       "chemical_formula": "SiO2",
       "image": "images/gems/citrine.jpg"
     },
@@ -196,7 +177,6 @@
       "hardness": 7,
       "specific_gravity_low": 2.59,
       "specific_gravity_high": 2.63,
-      "countries": ["Brazil", "Madagascar", "Sri Lanka"],
       "chemical_formula": "SiO2",
       "image": "images/gems/rose_quartz.webp"
     },
@@ -206,7 +186,6 @@
       "hardness": 7.5,
       "specific_gravity_low": 3.54,
       "specific_gravity_high": 3.62,
-      "countries": ["Sri Lanka", "Vietnam", "Myanmar"],
       "chemical_formula": "MgAl2O4",
       "image": "images/gems/jedi_spinel.jpg"
     },
@@ -216,7 +195,6 @@
       "hardness": 7,
       "specific_gravity_low": 3.06,
       "specific_gravity_high": 3.08,
-      "countries": ["Madagascar", "Sri Lanka"],
       "chemical_formula": "Na(Li,Al)3Al6(BO3)3Si6O18(OH)4",
       "image": "images/gems/tourmaline.jpg"
     },
@@ -226,7 +204,6 @@
       "hardness": 6,
       "specific_gravity_low": 2.54,
       "specific_gravity_high": 2.66,
-      "countries": ["Sri Lanka", "Madagascar"],
       "chemical_formula": "KAlSi3O8",
       "image": "images/gems/moonstone.jpg"
     }

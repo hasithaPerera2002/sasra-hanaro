@@ -1534,3 +1534,18 @@ td:first-child {
   text-align: left; /* Align text to the left if needed */
 }
 /*# sourceMappingURL=style.css.map */
+.whatsapp-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #4cae4c;
+  margin-top: 3rem;
+  color: white !important;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.whatsapp-box a {
+  color: white;
+}
